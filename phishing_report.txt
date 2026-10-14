@@ -1,0 +1,11 @@
+
+PHISHING EMAIL ANALYSIS REPORT
+______________________________
+sender: security@fake-bank.example
+subject: URGENT: Verify your account
+Suspicious keywords: 5
+URLs found: 1
+Risk Score: 70/100
+Risk Level: HIGH
+Note: This is a basic heuristic analysis,
+not a confirmed phishing verdict.
